@@ -6,14 +6,14 @@
             "bin": [
                 "ferentin.exe"
             ],
-            "hash": "8e74b0447fc187acc501d07ab4b33bf1d3be72b2ed826392ef125f7983e57a8f"
+            "hash": "6c28f621ee036460463122f8ea88b136cd657145610654cd78ac982143263f49"
         },
         "arm64": {
             "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v0.1.1/ferentin_v0.1.1_windows_arm64.zip",
             "bin": [
                 "ferentin.exe"
             ],
-            "hash": "5d4320ffbd92625a699c5ca45dc81df9a9ee14a55d37e2adab29cbcf86ecaa07"
+            "hash": "4cbc1c4da38ad6d07a2489aab384e10a201d7d727c3a7c168c41fd8d0e15888e"
         }
     },
     "homepage": "https://www.ferentin.com",
