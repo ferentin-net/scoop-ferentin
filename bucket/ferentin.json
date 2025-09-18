@@ -1,0 +1,13 @@
+{
+  "version": "0.0.0",
+  "description": "Ferentin CLI",
+  "homepage": "https://www.ferentin.com",
+  "license": "Proprietary",
+  "architecture": {
+    "64bit": {
+      "url": "https://example.com/ferentin.zip",
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "bin": "ferentin.exe"
+}
