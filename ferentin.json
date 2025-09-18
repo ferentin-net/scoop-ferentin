@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v0.1.0/ferentin_v0.1.0_windows_amd64.zip",
+            "bin": [
+                "ferentin.exe"
+            ],
+            "hash": "ae03bfc6c70c4b41fcbc45c63af69ac181b61d5bf2f18d344093accc45e980f0"
+        },
+        "arm64": {
+            "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v0.1.0/ferentin_v0.1.0_windows_arm64.zip",
+            "bin": [
+                "ferentin.exe"
+            ],
+            "hash": "85b9d8a90cff260e47cfde2ac289cd1f84d96db014ab94e08c94181f6ec94f93"
+        }
+    },
+    "homepage": "https://www.ferentin.com",
+    "license": "Proprietary",
+    "description": "Ferentin CLI - Secure OIDC authentication for CLI tools"
+}
