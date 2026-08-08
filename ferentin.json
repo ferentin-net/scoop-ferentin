@@ -1,19 +1,19 @@
 {
-    "version": "3.8.1",
+    "version": "3.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v3.8.1/ferentin_v3.8.1_windows_amd64.zip",
+            "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v3.8.2/ferentin_v3.8.2_windows_amd64.zip",
             "bin": [
                 "ferentin.exe"
             ],
-            "hash": "ca8d1e6ed9e657552c651a513abc4bb9aff81efa3513c43e72f6d98bdb0fd36a"
+            "hash": "76c05485f09c228a761b1704149b01d2648c29a291eb264a8e867656afa479b0"
         },
         "arm64": {
-            "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v3.8.1/ferentin_v3.8.1_windows_arm64.zip",
+            "url": "https://github.com/ferentin-net/ferentin-cli-dist/releases/download/v3.8.2/ferentin_v3.8.2_windows_arm64.zip",
             "bin": [
                 "ferentin.exe"
             ],
-            "hash": "b107ed1e9d14db17b9743a37579d03d9f0e7f0a73a334a25bf02ba58a5375e6f"
+            "hash": "7c0bc78a29acd4e426b1f60a7d0d40c656a1429e22095d6a8cb5ad19207bb934"
         }
     },
     "homepage": "https://www.ferentin.com",
